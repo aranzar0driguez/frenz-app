@@ -14,8 +14,9 @@ When a student scrolls to the bottom, they are able to send either "romantic" or
 <div class="flex-container" >
   <img src="app-screenshots/card-deck.png" alt="Alt text" width="250" />
   <img src="app-screenshots/profile-details.png" alt="Alt text" width="250" />
-  <img src="app-screenshots/profile-edit.png" alt="Alt text" width="250" />
+  <img src="app-screenshots/gifts.png" alt="Alt text" width="250" />
 </div>
+
 ## Gifts & Messages
 
 ### Gifts
