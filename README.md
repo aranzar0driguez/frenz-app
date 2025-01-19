@@ -30,5 +30,5 @@ If a user accepts the user, this initiates a conversation between both parties. 
 <div class="flex-container" >
   <img src="app-screenshots/chat.png" alt="Alt text" width="250" />
   <img src="app-screenshots/messages.png" alt="Alt text" width="250" />
-  <img src="app-screenshots/apn-notification.jpeg" alt="Alt text" width="250" />
+  <img src="app-screenshots/full-apn-notification.jpeg" alt="Alt text" width="250" />
 </div>
