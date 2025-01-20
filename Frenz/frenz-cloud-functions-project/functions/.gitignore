@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.default
+.env.local
+
+# Logs
+firebase-debug.log
+firestore-debug.log
+
+# Build outputs
+lib/node_modules
+
+# Node dependencies
+node_modules/
+
+# IDE-specific files (add relevant ones if needed)
+.vscode/
+.idea/
+*.code-workspace
+
+../keys.env

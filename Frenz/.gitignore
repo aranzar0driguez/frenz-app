@@ -1,0 +1,6 @@
+# Ignore the configuration file
+Config.xcconfig
+
+# Google Services List
+GoogleService-Info.plist
+Info.plist
